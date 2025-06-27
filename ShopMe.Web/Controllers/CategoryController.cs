@@ -63,5 +63,26 @@ public class CategoryController(AppDbContext _db) : Controller
     }
 
 
+    [HttpGet]
+    public IActionResult Delete(int? id)
+    {
+        if (id is null || id == 0)
+            return NotFound();
 
+        var category = _db.Categories.Find(id);
+        return View(category);
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public IActionResult DeleteCategory(int? id)
+    {
+        var category = _db.Categories.Find(id);
+        if (category is null)
+            return NotFound();
+        _db.Categories.Remove(category);
+        _db.SaveChanges();
+        return RedirectToAction("Index");
+
+    }
 }
