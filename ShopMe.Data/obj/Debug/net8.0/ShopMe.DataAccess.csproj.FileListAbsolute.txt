@@ -1,0 +1,12 @@
+E:\ecomerce MVC\ShopMe\ShopMe.Data\bin\Debug\net8.0\ShopMe.DataAccess.deps.json
+E:\ecomerce MVC\ShopMe\ShopMe.Data\bin\Debug\net8.0\ShopMe.DataAccess.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Data\bin\Debug\net8.0\ShopMe.DataAccess.pdb
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.DataAccess.AssemblyInfoInputs.cache
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.DataAccess.AssemblyInfo.cs
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.DataAccess.csproj.CoreCompileInputs.cache
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.DataAccess.sourcelink.json
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.DataAccess.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\refint\ShopMe.DataAccess.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.DataAccess.pdb
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ref\ShopMe.DataAccess.dll

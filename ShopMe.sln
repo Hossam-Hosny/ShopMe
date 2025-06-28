@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopMe.Data", "ShopMe.Data\ShopMe.Data.csproj", "{DBECC8CE-6B23-493E-BED2-75E78C36BC94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopMe.DataAccess", "ShopMe.Data\ShopMe.DataAccess.csproj", "{DBECC8CE-6B23-493E-BED2-75E78C36BC94}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopMe.Entities", "ShopMe.Entities\ShopMe.Entities.csproj", "{43CE6746-776D-421E-9250-989D629EFA5F}"
 EndProject

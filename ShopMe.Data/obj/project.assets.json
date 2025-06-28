@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Data\\ShopMe.Data.csproj",
-      "projectName": "ShopMe.Data",
-      "projectPath": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Data\\ShopMe.Data.csproj",
+      "projectUniqueName": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Data\\ShopMe.DataAccess.csproj",
+      "projectName": "ShopMe.DataAccess",
+      "projectPath": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Data\\ShopMe.DataAccess.csproj",
       "packagesPath": "C:\\Users\\java\\.nuget\\packages\\",
       "outputPath": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Data\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,12 @@
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\bin\Debug\net8.0\ShopMe.Entities.deps.json
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\bin\Debug\net8.0\ShopMe.Entities.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\bin\Debug\net8.0\ShopMe.Entities.pdb
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ShopMe.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ShopMe.Entities.AssemblyInfoInputs.cache
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ShopMe.Entities.AssemblyInfo.cs
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ShopMe.Entities.csproj.CoreCompileInputs.cache
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ShopMe.Entities.sourcelink.json
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ShopMe.Entities.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\refint\ShopMe.Entities.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ShopMe.Entities.pdb
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ref\ShopMe.Entities.dll

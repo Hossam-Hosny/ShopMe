@@ -1,7 +1,16 @@
+using ShopMe.Web.Extensions;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+
+// adding web
+var config = builder.Configuration;
+builder.AddWeb(config);
+
 
 var app = builder.Build();
 
