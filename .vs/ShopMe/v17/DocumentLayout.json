@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "ShopMe.Web\\Views\\Category\\Create.cshtml",
               "ToolTip": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "ShopMe.Web\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-28T12:54:51.965Z",
               "EditorCaption": ""
@@ -93,7 +93,7 @@
               "RelativeDocumentMoniker": "ShopMe.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ShopMe.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-28T12:51:57.853Z",
               "EditorCaption": ""
@@ -108,8 +108,7 @@
               "RelativeToolTip": "ShopMe.Web\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T12:44:00.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T12:44:00.883Z"
             },
             {
               "$type": "Document",
@@ -119,7 +118,7 @@
               "RelativeDocumentMoniker": "ShopMe.Web\\Controllers\\CategoryController.cs",
               "ToolTip": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "ShopMe.Web\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABQAAADgzMzMzMwuwBwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAACAZmZmZmYGwBUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T12:43:24.528Z",
               "EditorCaption": ""
@@ -134,8 +133,7 @@
               "RelativeToolTip": "ShopMe.Web\\Migrations\\20250628104916_Initial.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T10:49:17.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T10:49:17.098Z"
             },
             {
               "$type": "Document",

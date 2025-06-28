@@ -20,12 +20,18 @@ public class CategoryController(AppDbContext _db) : Controller
     }
 
     [HttpPost]
+    [ValidateAntiForgeryToken]
     public IActionResult Create(Category category)
     {
-        _db.Categories.Add(category);
-        _db.SaveChanges();
+        if (ModelState.IsValid)
+        {
 
-        return RedirectToAction("Index");
+            _db.Categories.Add(category);
+            _db.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
+        return View();
     }
 
 
