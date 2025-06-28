@@ -35,4 +35,33 @@ public class CategoryController(AppDbContext _db) : Controller
     }
 
 
+
+    [HttpGet]
+    public IActionResult Edit (int? id)
+    {
+        if (id is null || id == 0)
+            return NotFound();
+
+        var category = _db.Categories.Find(id);
+        return View(category);
+    }
+      [HttpPost]
+    [ValidateAntiForgeryToken]
+    public IActionResult Edit (Category category)
+    {
+        if (ModelState.IsValid)
+        {
+            _db.Categories.Update(category);
+            _db.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
+            
+
+       
+        return View(category);
+    }
+
+
+
 }

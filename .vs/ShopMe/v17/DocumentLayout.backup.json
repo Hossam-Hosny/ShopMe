@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "E:\\ecomerce MVC\\ShopMe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|e:\\ecomerce mvc\\shopme\\shopme.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|solutionrelative:shopme.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|e:\\ecomerce mvc\\shopme\\shopme.web\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|solutionrelative:shopme.web\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|e:\\ecomerce mvc\\shopme\\shopme.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|solutionrelative:shopme.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|e:\\ecomerce mvc\\shopme\\shopme.web\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|solutionrelative:shopme.web\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|e:\\ecomerce mvc\\shopme\\shopme.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|solutionrelative:shopme.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|e:\\ecomerce mvc\\shopme\\shopme.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|solutionrelative:shopme.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|e:\\ecomerce mvc\\shopme\\shopme.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|solutionrelative:shopme.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDCCAD02-1C56-44F9-9A3A-C89A5BEC44A5}|ShopMe.Web\\ShopMe.Web.csproj|e:\\ecomerce mvc\\shopme\\shopme.web\\migrations\\20250628104916_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,20 +78,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShopMe.Web\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ShopMe.Web\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:34:00.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "ShopMe.Web\\Views\\Category\\Create.cshtml",
-              "ToolTip": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Views\\Category\\Create.cshtml*",
-              "RelativeToolTip": "ShopMe.Web\\Views\\Category\\Create.cshtml*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "ToolTip": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ShopMe.Web\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-28T12:54:51.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ShopMe.Web\\Views\\Shared\\_Layout.cshtml",
@@ -95,37 +112,37 @@
               "RelativeToolTip": "ShopMe.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T12:51:57.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T12:51:57.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "ShopMe.Web\\Views\\Category\\Index.cshtml",
               "ToolTip": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "ShopMe.Web\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T12:44:00.883Z"
+              "WhenOpened": "2025-06-28T12:44:00.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ShopMe.Web\\Controllers\\CategoryController.cs",
-              "ToolTip": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Controllers\\CategoryController.cs*",
-              "RelativeToolTip": "ShopMe.Web\\Controllers\\CategoryController.cs*",
-              "ViewState": "AgIAABQAAADgzMzMzMwuwCAAAAAWAAAAAAAAAA==",
+              "ToolTip": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ShopMe.Web\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAB0AAABAMzMzMzMjwDUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T12:43:24.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20250628104916_Initial.cs",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Migrations\\20250628104916_Initial.cs",
               "RelativeDocumentMoniker": "ShopMe.Web\\Migrations\\20250628104916_Initial.cs",
@@ -137,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Program.cs",
               "RelativeDocumentMoniker": "ShopMe.Web\\Program.cs",
@@ -149,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "ShopMe.Web\\Extensions\\ServiceCollectionExtensions.cs",
@@ -161,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ShopMe.Web\\appsettings.Development.json",
@@ -173,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ShopMe.Web\\Context\\AppDbContext.cs",
@@ -185,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Models\\Category.cs",
               "RelativeDocumentMoniker": "ShopMe.Web\\Models\\Category.cs",
@@ -197,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ShopMe.Web\\Models\\ErrorViewModel.cs",
@@ -209,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ShopMe.Web.csproj",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\ShopMe.Web.csproj",
               "RelativeDocumentMoniker": "ShopMe.Web\\ShopMe.Web.csproj",
@@ -221,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ShopMe.DataAccess.csproj",
               "DocumentMoniker": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Data\\ShopMe.DataAccess.csproj",
               "RelativeDocumentMoniker": "ShopMe.Data\\ShopMe.DataAccess.csproj",

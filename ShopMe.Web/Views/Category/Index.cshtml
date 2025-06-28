@@ -10,11 +10,15 @@
         <td>Created At </td>
     </tr>
     @foreach(Category Category in Model)
-    {
+    {  
         <tr>
             <td>@Category.Name</td>
             <td>@Category.Description</td>
             <td>@Category.CreatedAt</td>
+            <td>
+                <a href="/Category/Edit/@Category.Id" class="btn btn-success" >Edit</a>
+                <a href="/Category/Delete/@Category.Id" class="btn btn-danger" >Delete</a>
+            </td>
         </tr>
     }
 </table>
