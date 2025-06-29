@@ -1,3 +1,4 @@
+using ShopMe.DataAccess.Extensions;
 using ShopMe.Web.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,9 +8,12 @@ builder.Services.AddControllersWithViews();
 
 
 
-// adding web
+// adding Web Layer
 var config = builder.Configuration;
-builder.AddWeb(config);
+builder.AddWeb();
+
+// addin DataAccess Layer
+builder.Services.AddDataAccess(config);
 
 
 var app = builder.Build();

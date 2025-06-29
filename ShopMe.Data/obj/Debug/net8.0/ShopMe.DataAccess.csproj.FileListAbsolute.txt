@@ -10,3 +10,9 @@ E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.DataAccess.dll
 E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\refint\ShopMe.DataAccess.dll
 E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.DataAccess.pdb
 E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ref\ShopMe.DataAccess.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.DataAccess.csproj.AssemblyReference.cache
+E:\ecomerce MVC\ShopMe\ShopMe.Data\bin\Debug\net8.0\ShopMe.DataAccess.runtimeconfig.json
+E:\ecomerce MVC\ShopMe\ShopMe.Data\bin\Debug\net8.0\ShopMe.Entities.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Data\bin\Debug\net8.0\ShopMe.Entities.pdb
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.D.4F1C3CD5.Up2Date
+E:\ecomerce MVC\ShopMe\ShopMe.Data\obj\Debug\net8.0\ShopMe.DataAccess.genruntimeconfig.cache

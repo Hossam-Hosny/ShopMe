@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ShopMe.Web.Context;
-using ShopMe.Web.Models;
+using ShopMe.DataAccess.Context;
+using ShopMe.Entities.Models;
 
 namespace ShopMe.Web.Controllers;
 
@@ -28,6 +28,8 @@ public class CategoryController(AppDbContext _db) : Controller
 
             _db.Categories.Add(category);
             _db.SaveChanges();
+            TempData["Create"] = "Data has been Created Successfully";
+
 
             return RedirectToAction("Index");
         }
@@ -53,6 +55,8 @@ public class CategoryController(AppDbContext _db) : Controller
         {
             _db.Categories.Update(category);
             _db.SaveChanges();
+            TempData["Update"] = "Data has been Updated Successfully";
+
 
             return RedirectToAction("Index");
         }
@@ -82,6 +86,8 @@ public class CategoryController(AppDbContext _db) : Controller
             return NotFound();
         _db.Categories.Remove(category);
         _db.SaveChanges();
+        TempData["Delete"] = "Data has been Deleted Successfully";
+
         return RedirectToAction("Index");
 
     }

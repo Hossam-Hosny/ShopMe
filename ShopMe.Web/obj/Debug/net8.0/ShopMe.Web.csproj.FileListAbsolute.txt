@@ -171,3 +171,7 @@ E:\ecomerce MVC\ShopMe\ShopMe.Web\obj\Debug\net8.0\refint\ShopMe.Web.dll
 E:\ecomerce MVC\ShopMe\ShopMe.Web\obj\Debug\net8.0\ShopMe.Web.pdb
 E:\ecomerce MVC\ShopMe\ShopMe.Web\obj\Debug\net8.0\ShopMe.Web.genruntimeconfig.cache
 E:\ecomerce MVC\ShopMe\ShopMe.Web\obj\Debug\net8.0\ref\ShopMe.Web.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Web\bin\Debug\net8.0\ShopMe.DataAccess.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Web\bin\Debug\net8.0\ShopMe.Entities.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Web\bin\Debug\net8.0\ShopMe.DataAccess.pdb
+E:\ecomerce MVC\ShopMe\ShopMe.Web\bin\Debug\net8.0\ShopMe.Entities.pdb

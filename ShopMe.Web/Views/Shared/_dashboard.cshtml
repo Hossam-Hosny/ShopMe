@@ -7,10 +7,16 @@
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
     <!-- Font Awesome -->
     <link rel="stylesheet" href="/plugins/fontawesome-free/css/all.min.css">
     <!-- Theme style -->
     <link rel="stylesheet" href="/css/adminlte.min.css">
+
+
+    <script src="/plugins/jquery/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
 </head>
 <body class="hold-transition sidebar-mini">
     <!-- Site wrapper -->
@@ -277,6 +283,8 @@
                         </div>
                     </div>
                     <div class="card-body">
+
+                        <partial name="_tosters" />
                         @RenderBody();
                     </div>
                    
@@ -312,6 +320,9 @@
     <!-- AdminLTE for demo purposes -->
     <script src="../../dist/js/demo.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
+   
+
 
 </body>
 </html>

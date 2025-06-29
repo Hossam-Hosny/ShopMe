@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ShopMe.Web.Models;
+using ShopMe.Entities.Models;
 
-namespace ShopMe.Web.Context;
+namespace ShopMe.DataAccess.Context;
 
 public class AppDbContext (DbContextOptions<AppDbContext> options):DbContext(options)
 {

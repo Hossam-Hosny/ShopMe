@@ -1,4 +1,4 @@
-namespace ShopMe.Web.Models
+namespace ShopMe.Entities.Models
 {
     public class ErrorViewModel
     {
