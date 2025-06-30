@@ -22,7 +22,7 @@ internal class GenericRepository<T> : IGenericRepository<T> where T : class
         _db.Add(entity);
     }
 
-    public IEnumerable<T> GetAll(Expression<Func<T, bool>> predicate, string? IncludeWord)
+    public IEnumerable<T> GetAll(Expression<Func<T, bool>>? predicate = null, string? IncludeWord = null)
     {
         IQueryable<T> query = _dbSet;
         if (predicate !=null)
@@ -38,7 +38,7 @@ internal class GenericRepository<T> : IGenericRepository<T> where T : class
         return query.ToList();
     }
 
-    public T GetFirstorDefault(Expression<Func<T, bool>> predicate, string? IncludeWord)
+    public T GetFirstorDefault(Expression<Func<T, bool>>? predicate=null, string? IncludeWord = null)
     {
 
         IQueryable<T> query = _dbSet;

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMe.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1887b9af921e2e1c2682d01d1df618339b75f38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c04509fc8e768a0c764444e499d355f0a1a818d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMe.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMe.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

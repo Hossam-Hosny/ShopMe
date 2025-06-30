@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMe.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3e7641dc3f38288e9b5e8707e728dfd93c2639f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c04509fc8e768a0c764444e499d355f0a1a818d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMe.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMe.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

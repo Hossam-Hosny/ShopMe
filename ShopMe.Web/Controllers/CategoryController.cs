@@ -1,15 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ShopMe.DataAccess.Context;
+using ShopMe.DataAccess.RepositoryServices.UnitOfWork;
 using ShopMe.Entities.Models;
 
 namespace ShopMe.Web.Controllers;
 
-public class CategoryController(AppDbContext _db) : Controller
+public class CategoryController(IUnitOfWork _unitOfWork) : Controller
 {
 
     public IActionResult Index()
     {
-        var categories = _db.Categories.ToList();
+        var categories = _unitOfWork.Category.GetAll();
         return View(categories);
     }
 
@@ -26,8 +27,8 @@ public class CategoryController(AppDbContext _db) : Controller
         if (ModelState.IsValid)
         {
 
-            _db.Categories.Add(category);
-            _db.SaveChanges();
+            _unitOfWork.Category.Add(category);
+            _unitOfWork.Complete();
             TempData["Create"] = "Data has been Created Successfully";
 
 
@@ -44,7 +45,7 @@ public class CategoryController(AppDbContext _db) : Controller
         if (id is null || id == 0)
             return NotFound();
 
-        var category = _db.Categories.Find(id);
+        var category = _unitOfWork.Category.GetFirstorDefault(c=>c.Id==id);
         return View(category);
     }
       [HttpPost]
@@ -53,8 +54,8 @@ public class CategoryController(AppDbContext _db) : Controller
     {
         if (ModelState.IsValid)
         {
-            _db.Categories.Update(category);
-            _db.SaveChanges();
+            _unitOfWork.Category.Update(category);
+            _unitOfWork.Complete();
             TempData["Update"] = "Data has been Updated Successfully";
 
 
@@ -73,7 +74,7 @@ public class CategoryController(AppDbContext _db) : Controller
         if (id is null || id == 0)
             return NotFound();
 
-        var category = _db.Categories.Find(id);
+        var category = _unitOfWork.Category.GetFirstorDefault(c => c.Id == id);
         return View(category);
     }
 
@@ -81,11 +82,11 @@ public class CategoryController(AppDbContext _db) : Controller
     [ValidateAntiForgeryToken]
     public IActionResult DeleteCategory(int? id)
     {
-        var category = _db.Categories.Find(id);
+        var category = _unitOfWork.Category.GetFirstorDefault(c => c.Id == id);
         if (category is null)
             return NotFound();
-        _db.Categories.Remove(category);
-        _db.SaveChanges();
+        _unitOfWork.Category.Remove(category);
+        _unitOfWork.Complete();
         TempData["Delete"] = "Data has been Deleted Successfully";
 
         return RedirectToAction("Index");
