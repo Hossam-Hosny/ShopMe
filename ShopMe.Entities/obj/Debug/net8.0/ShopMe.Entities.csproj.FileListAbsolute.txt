@@ -10,3 +10,4 @@ E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ShopMe.Entities.dll
 E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\refint\ShopMe.Entities.dll
 E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ShopMe.Entities.pdb
 E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ref\ShopMe.Entities.dll
+E:\ecomerce MVC\ShopMe\ShopMe.Entities\obj\Debug\net8.0\ShopMe.Entities.csproj.AssemblyReference.cache
