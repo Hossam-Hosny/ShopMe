@@ -28,6 +28,8 @@ wwwroot\css\alt\adminlte.plugins.min.css
 wwwroot\css\alt\adminlte.plugins.min.css.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Images\Products\4aa656f4-6524-4b7d-aa75-8e891c18e073.jpg
+wwwroot\Images\Products\cfda2e1d-eaa6-413d-88f2-4b5bccfbfb19.jpg
 wwwroot\img\AdminLTELogo.png
 wwwroot\img\avatar.png
 wwwroot\img\avatar2.png
@@ -70,6 +72,7 @@ wwwroot\js\demo.js
 wwwroot\js\pages\dashboard.js
 wwwroot\js\pages\dashboard2.js
 wwwroot\js\pages\dashboard3.js
+wwwroot\js\Products.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

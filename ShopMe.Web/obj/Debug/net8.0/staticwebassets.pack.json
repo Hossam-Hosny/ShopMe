@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\ShopMe.Web.2xumrbu8pl.bundle.scp.css"
     },
     {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\4aa656f4-6524-4b7d-aa75-8e891c18e073.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\4aa656f4-6524-4b7d-aa75-8e891c18e073.jpg"
+    },
+    {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\cfda2e1d-eaa6-413d-88f2-4b5bccfbfb19.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\cfda2e1d-eaa6-413d-88f2-4b5bccfbfb19.jpg"
+    },
+    {
       "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\css\\adminlte.css",
       "PackagePath": "staticwebassets\\css\\adminlte.css"
     },
@@ -259,6 +267,10 @@
     {
       "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\js\\.eslintrc.json",
       "PackagePath": "staticwebassets\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\js\\Products.js",
+      "PackagePath": "staticwebassets\\js\\Products.js"
     },
     {
       "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\js\\adminlte.js",

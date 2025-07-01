@@ -8,14 +8,19 @@ namespace ShopMe.Web.Areas.Admin.Controllers;
 
 [Area("Admin")]
 public class ProductController(IUnitOfWork _unitOfWork 
-    ,IWebHostEnvironment _webHostEnvironment)
-    : Controller
+    ,IWebHostEnvironment _webHostEnvironment
+    ): Controller
 {
 
     public IActionResult Index()
     {
+        return View();
+    }
+
+    public IActionResult GetData()
+    {
         var products = _unitOfWork.Product.GetAll();
-        return View(products);
+        return Json(new {data=products});
     }
 
     [HttpGet]
@@ -36,7 +41,7 @@ public class ProductController(IUnitOfWork _unitOfWork
 
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public IActionResult Create(ProductViewModel productvm,IFormFile file)
+    public IActionResult Create([FromForm]ProductViewModel productvm,IFormFile file)
     {
         if (ModelState.IsValid)
         {
@@ -63,7 +68,7 @@ public class ProductController(IUnitOfWork _unitOfWork
 
             return RedirectToAction("Index");
         }
-        return View(productvm.Product);
+        return View(productvm);
     }
 
 

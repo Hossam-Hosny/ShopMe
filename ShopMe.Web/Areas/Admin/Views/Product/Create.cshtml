@@ -7,6 +7,17 @@
 }
 
 
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
 
 
 <form method="post" asp-action="Create" enctype="multipart/form-data">
@@ -41,7 +52,7 @@
 
 
     <div class="form-groub">
-        <label asp-for="Product.CategoryId"></label>
+        <label asp-for="Product.CategoryId" class="control-label"></label>
         <select asp-for="Product.CategoryId" asp-items="Model.CategoryList" class="form-control">
             <option disabled selected>-- Select Category --</option>
         </select>
@@ -51,12 +62,15 @@
 
 
     <div class="form-groub">
-        <button type="submit" class="btn btn-primary">Create</button>
-        <a asp-action="Create" asp-controller="Products" class="btn btn-warning">Back To Categories</a>
+        <input type="submit" value="Create" class="btn btn-primary"/>
+        <a asp-action="Index" class="btn btn-warning">Back To List</a>
+
     </div>
 
 
 </form>
+
+
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
