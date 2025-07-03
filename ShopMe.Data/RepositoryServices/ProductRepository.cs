@@ -17,6 +17,7 @@ internal class ProductRepository(AppDbContext db) : GenericRepository<Product>(d
             productInDB.Description = product.Description;
             productInDB.Price = product.Price;
             productInDB.ImagePath = product.ImagePath;
+            productInDB.CategoryId = product.CategoryId;
 
 
             

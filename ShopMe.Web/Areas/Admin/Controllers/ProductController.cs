@@ -79,16 +79,58 @@ public class ProductController(IUnitOfWork _unitOfWork
         if (id is null || id == 0)
             return NotFound();
 
-        var product = _unitOfWork.Product.GetFirstorDefault(c => c.Id == id);
-        return View(product);
+        var productVM = new ProductViewModel()
+        {
+            Product = _unitOfWork.Product.GetFirstorDefault(c => c.Id == id),
+            CategoryList = _unitOfWork.Category.GetAll().Select(c => new SelectListItem
+            {
+                Text = c.Name,
+                Value = c.Id.ToString()
+
+            })
+        };
+        return View(productVM);
+
+        
     }
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public IActionResult Edit(Product product)
+    public IActionResult Edit(ProductViewModel productvm,IFormFile? file)
     {
         if (ModelState.IsValid)
         {
-            _unitOfWork.Product.Update(product);
+
+            string rootPath = _webHostEnvironment.WebRootPath;
+            if (file != null)
+            {
+                string filename = Guid.NewGuid().ToString();
+                var upload = Path.Combine(rootPath, @"Images\Products");
+                var extension = Path.GetExtension(file.FileName);
+
+                if (productvm.Product.ImagePath != null)
+                {
+                    var oldImagePath = Path.Combine(rootPath, productvm.Product.ImagePath.Replace("/", Path.DirectorySeparatorChar.ToString()).Replace("\\", Path.DirectorySeparatorChar.ToString()));
+                    if (System.IO.File.Exists(oldImagePath))
+                    {
+                        System.IO.File.Delete(oldImagePath);
+                    }
+                    
+                }
+
+
+                using (var filestream = new FileStream(Path.Combine(upload, filename + extension), FileMode.Create))
+                {
+                    file.CopyTo(filestream);
+                }
+
+                productvm.Product.ImagePath = @"Images\Products\" + filename + extension;
+
+            }
+
+
+
+
+            _unitOfWork.Product.Update(productvm.Product);
             _unitOfWork.Complete();
             TempData["Update"] = "Data has been Updated Successfully";
 
@@ -98,7 +140,7 @@ public class ProductController(IUnitOfWork _unitOfWork
 
 
 
-        return View(product);
+        return View(productvm.Product);
     }
 
 

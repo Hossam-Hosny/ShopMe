@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ShopMe.Web.2xumrbu8pl.bundle.scp.css"
     },
     {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\1ad57318-33c9-41d1-b755-f9df8d36f6f2.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\1ad57318-33c9-41d1-b755-f9df8d36f6f2.png"
+    },
+    {
       "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\294a41d3-fe82-43da-b058-65e4355f3bc4.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\294a41d3-fe82-43da-b058-65e4355f3bc4.jpg"
     },
@@ -13,8 +17,32 @@
       "PackagePath": "staticwebassets\\Images\\Products\\4aa656f4-6524-4b7d-aa75-8e891c18e073.jpg"
     },
     {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\75fca6f7-555c-4c3b-93e9-ac3571f689f3.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\75fca6f7-555c-4c3b-93e9-ac3571f689f3.png"
+    },
+    {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\8e6f4778-32f8-4710-85ea-275218b95bb7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\8e6f4778-32f8-4710-85ea-275218b95bb7.jpg"
+    },
+    {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\998c132c-dc27-4007-acf0-0f61adbcb8ee.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\998c132c-dc27-4007-acf0-0f61adbcb8ee.jpg"
+    },
+    {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\a632960f-8d88-47c1-8569-09d4b669fb5b.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\a632960f-8d88-47c1-8569-09d4b669fb5b.png"
+    },
+    {
       "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\cfda2e1d-eaa6-413d-88f2-4b5bccfbfb19.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\cfda2e1d-eaa6-413d-88f2-4b5bccfbfb19.jpg"
+    },
+    {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\daec4aea-994e-4e26-bc12-2d71c25af5ce.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\daec4aea-994e-4e26-bc12-2d71c25af5ce.jpg"
+    },
+    {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\e1f5ed79-aff3-41db-9e51-646154792073.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e1f5ed79-aff3-41db-9e51-646154792073.jpg"
     },
     {
       "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\css\\adminlte.css",
