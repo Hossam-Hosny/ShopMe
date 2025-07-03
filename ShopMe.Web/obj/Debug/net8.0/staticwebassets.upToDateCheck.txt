@@ -28,6 +28,7 @@ wwwroot\css\alt\adminlte.plugins.min.css
 wwwroot\css\alt\adminlte.plugins.min.css.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Images\Products\294a41d3-fe82-43da-b058-65e4355f3bc4.jpg
 wwwroot\Images\Products\4aa656f4-6524-4b7d-aa75-8e891c18e073.jpg
 wwwroot\Images\Products\cfda2e1d-eaa6-413d-88f2-4b5bccfbfb19.jpg
 wwwroot\img\AdminLTELogo.png

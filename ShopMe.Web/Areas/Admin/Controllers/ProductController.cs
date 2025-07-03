@@ -19,7 +19,7 @@ public class ProductController(IUnitOfWork _unitOfWork
 
     public IActionResult GetData()
     {
-        var products = _unitOfWork.Product.GetAll();
+        var products = _unitOfWork.Product.GetAll(IncludeWord:"Category");
         return Json(new {data=products});
     }
 
