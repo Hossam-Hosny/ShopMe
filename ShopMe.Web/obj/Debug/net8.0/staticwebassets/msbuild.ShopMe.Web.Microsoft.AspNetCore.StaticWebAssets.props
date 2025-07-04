@@ -594,24 +594,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\2a0ab695-7162-464c-9642-130499f69df3.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\2d86ca87-eb28-468e-8e40-cfb7ed662834.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>ShopMe.Web</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ShopMe.Web</BasePath>
-      <RelativePath>Images/Products/2d86ca87-eb28-468e-8e40-cfb7ed662834.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9daym2dnv6</Fingerprint>
-      <Integrity>/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\2d86ca87-eb28-468e-8e40-cfb7ed662834.png'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\4aa656f4-6524-4b7d-aa75-8e891c18e073.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ShopMe.Web</SourceId>
@@ -809,6 +791,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\e1f5ed79-aff3-41db-9e51-646154792073.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\ef53a5a4-6849-47d1-8967-b61aa512f8c8.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ShopMe.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ShopMe.Web</BasePath>
+      <RelativePath>Images/Products/ef53a5a4-6849-47d1-8967-b61aa512f8c8.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>k3a44yfp8y</Fingerprint>
+      <Integrity>IIg5/vWTIG8UU0L8V1Hzrvzt4yBR5Wwaukt6FNjsLh0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\ef53a5a4-6849-47d1-8967-b61aa512f8c8.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\f095bf38-8081-446a-8995-94d01be5c28d.png'))">
       <SourceType>Package</SourceType>
@@ -1596,8 +1596,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vc061gbswt</Fingerprint>
-      <Integrity>T9hAOA9PrV11aeMbiSGYFLYGVRNEiEbLUiZqjN1TLYs=</Integrity>
+      <Fingerprint>niznncwpu4</Fingerprint>
+      <Integrity>cYWt+ecNavDoEt7cSzMdKzUn5n5Qlte2uqQxxKhl4Mw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Products.js'))</OriginalItemSpec>

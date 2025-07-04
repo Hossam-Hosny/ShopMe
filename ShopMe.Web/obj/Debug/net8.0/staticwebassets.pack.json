@@ -17,10 +17,6 @@
       "PackagePath": "staticwebassets\\Images\\Products\\2a0ab695-7162-464c-9642-130499f69df3.png"
     },
     {
-      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\2d86ca87-eb28-468e-8e40-cfb7ed662834.png",
-      "PackagePath": "staticwebassets\\Images\\Products\\2d86ca87-eb28-468e-8e40-cfb7ed662834.png"
-    },
-    {
       "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\4aa656f4-6524-4b7d-aa75-8e891c18e073.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\4aa656f4-6524-4b7d-aa75-8e891c18e073.jpg"
     },
@@ -63,6 +59,10 @@
     {
       "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\e1f5ed79-aff3-41db-9e51-646154792073.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\e1f5ed79-aff3-41db-9e51-646154792073.jpg"
+    },
+    {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\ef53a5a4-6849-47d1-8967-b61aa512f8c8.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\ef53a5a4-6849-47d1-8967-b61aa512f8c8.png"
     },
     {
       "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\f095bf38-8081-446a-8995-94d01be5c28d.png",
