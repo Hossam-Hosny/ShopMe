@@ -49,7 +49,7 @@ public class ProductController(IUnitOfWork _unitOfWork
             if (file != null)
             {
                 string filename = Guid.NewGuid().ToString();
-                var upload = Path.Combine(rootPath, @"Images\Products");
+                var upload = Path.Combine(rootPath, @"Images\Products\");
                 var extension = Path.GetExtension(file.FileName);
 
                 using (var filestream = new FileStream(Path.Combine(upload, filename + extension), FileMode.Create))
@@ -57,7 +57,7 @@ public class ProductController(IUnitOfWork _unitOfWork
                     file.CopyTo(filestream);
                 }
 
-                productvm.Product.ImagePath = @"Images\Products" + filename + extension;
+                productvm.Product.ImagePath = $"Images/Products/{ filename}{extension}";
 
             }
 
@@ -123,7 +123,7 @@ public class ProductController(IUnitOfWork _unitOfWork
                     file.CopyTo(filestream);
                 }
 
-                productvm.Product.ImagePath = @"Images\Products\" + filename + extension;
+                productvm.Product.ImagePath = $"Images/Products/{filename}{extension}";
 
             }
 

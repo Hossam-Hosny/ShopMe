@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "n/VpWq2y5gOxr4a/F5kPd7tga+f/IlMy7mRHE/zjkF8=",
+  "Hash": "SHGu1P86TK5vM+xOuLZh9dlAruOjA5SyvBjIn2XOExo=",
   "Source": "ShopMe.Web",
   "BasePath": "_content/ShopMe.Web",
   "Mode": "Default",
@@ -731,6 +731,48 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\294a41d3-fe82-43da-b058-65e4355f3bc4.jpg"
     },
     {
+      "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\2a0ab695-7162-464c-9642-130499f69df3.png",
+      "SourceId": "ShopMe.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\",
+      "BasePath": "_content/ShopMe.Web",
+      "RelativePath": "Images/Products/2a0ab695-7162-464c-9642-130499f69df3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9daym2dnv6",
+      "Integrity": "/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\2a0ab695-7162-464c-9642-130499f69df3.png"
+    },
+    {
+      "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\2d86ca87-eb28-468e-8e40-cfb7ed662834.png",
+      "SourceId": "ShopMe.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\",
+      "BasePath": "_content/ShopMe.Web",
+      "RelativePath": "Images/Products/2d86ca87-eb28-468e-8e40-cfb7ed662834#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9daym2dnv6",
+      "Integrity": "/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\2d86ca87-eb28-468e-8e40-cfb7ed662834.png"
+    },
+    {
       "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\4aa656f4-6524-4b7d-aa75-8e891c18e073.jpg",
       "SourceId": "ShopMe.Web",
       "SourceType": "Discovered",
@@ -750,6 +792,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Products\\4aa656f4-6524-4b7d-aa75-8e891c18e073.jpg"
+    },
+    {
+      "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\5f500ab1-c972-4b9e-a542-d90dcb471498.png",
+      "SourceId": "ShopMe.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\",
+      "BasePath": "_content/ShopMe.Web",
+      "RelativePath": "Images/Products/5f500ab1-c972-4b9e-a542-d90dcb471498#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9daym2dnv6",
+      "Integrity": "/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\5f500ab1-c972-4b9e-a542-d90dcb471498.png"
     },
     {
       "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\75fca6f7-555c-4c3b-93e9-ac3571f689f3.png",
@@ -836,6 +899,48 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\a632960f-8d88-47c1-8569-09d4b669fb5b.png"
     },
     {
+      "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\b243c06b-4d83-4613-a0fd-faa98d4becc9.jpg",
+      "SourceId": "ShopMe.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\",
+      "BasePath": "_content/ShopMe.Web",
+      "RelativePath": "Images/Products/b243c06b-4d83-4613-a0fd-faa98d4becc9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifm3u1jn1p",
+      "Integrity": "TgZZLrn7CbxCu8WEXp/26JQSIt2yFscCTYLK2vJ/Ox4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\b243c06b-4d83-4613-a0fd-faa98d4becc9.jpg"
+    },
+    {
+      "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\b5808be4-c291-4f0d-957a-8ec60c2115f5.png",
+      "SourceId": "ShopMe.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\",
+      "BasePath": "_content/ShopMe.Web",
+      "RelativePath": "Images/Products/b5808be4-c291-4f0d-957a-8ec60c2115f5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kgnc2hjyhq",
+      "Integrity": "xNd8dnqyUbZ/g4q30Dw0ELD6f4iFY5I20y0Yg1ESj1c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\b5808be4-c291-4f0d-957a-8ec60c2115f5.png"
+    },
+    {
       "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\cfda2e1d-eaa6-413d-88f2-4b5bccfbfb19.jpg",
       "SourceId": "ShopMe.Web",
       "SourceType": "Discovered",
@@ -897,6 +1002,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Products\\e1f5ed79-aff3-41db-9e51-646154792073.jpg"
+    },
+    {
+      "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\f095bf38-8081-446a-8995-94d01be5c28d.png",
+      "SourceId": "ShopMe.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\",
+      "BasePath": "_content/ShopMe.Web",
+      "RelativePath": "Images/Products/f095bf38-8081-446a-8995-94d01be5c28d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kgnc2hjyhq",
+      "Integrity": "xNd8dnqyUbZ/g4q30Dw0ELD6f4iFY5I20y0Yg1ESj1c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\f095bf38-8081-446a-8995-94d01be5c28d.png"
     },
     {
       "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\img\\AdminLTELogo.png",
@@ -6549,6 +6675,170 @@
       ]
     },
     {
+      "Route": "Images/Products/2a0ab695-7162-464c-9642-130499f69df3.9daym2dnv6.png",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\2a0ab695-7162-464c-9642-130499f69df3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10638560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 10:57:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9daym2dnv6"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/2a0ab695-7162-464c-9642-130499f69df3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/2a0ab695-7162-464c-9642-130499f69df3.png",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\2a0ab695-7162-464c-9642-130499f69df3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10638560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 10:57:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/2d86ca87-eb28-468e-8e40-cfb7ed662834.9daym2dnv6.png",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\2d86ca87-eb28-468e-8e40-cfb7ed662834.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10638560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 11:14:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9daym2dnv6"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/2d86ca87-eb28-468e-8e40-cfb7ed662834.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/2d86ca87-eb28-468e-8e40-cfb7ed662834.png",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\2d86ca87-eb28-468e-8e40-cfb7ed662834.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10638560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 11:14:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE="
+        }
+      ]
+    },
+    {
       "Route": "Images/Products/4aa656f4-6524-4b7d-aa75-8e891c18e073.5jbyi7eweg.jpg",
       "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\4aa656f4-6524-4b7d-aa75-8e891c18e073.jpg",
       "Selectors": [],
@@ -6627,6 +6917,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-H+M2S9GvxbuwhxDRl5XxTrW1TukBBKGVDlI0AFSM5ZM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/5f500ab1-c972-4b9e-a542-d90dcb471498.9daym2dnv6.png",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\5f500ab1-c972-4b9e-a542-d90dcb471498.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10638560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 11:07:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9daym2dnv6"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/5f500ab1-c972-4b9e-a542-d90dcb471498.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/5f500ab1-c972-4b9e-a542-d90dcb471498.png",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\5f500ab1-c972-4b9e-a542-d90dcb471498.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10638560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 11:07:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RaEdd8430oWuUGGGOlSymLWAOxa5HxHAP3Vtp4rFdE="
         }
       ]
     },
@@ -6959,6 +7331,170 @@
       ]
     },
     {
+      "Route": "Images/Products/b243c06b-4d83-4613-a0fd-faa98d4becc9.ifm3u1jn1p.jpg",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\b243c06b-4d83-4613-a0fd-faa98d4becc9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TgZZLrn7CbxCu8WEXp/26JQSIt2yFscCTYLK2vJ/Ox4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 10:52:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifm3u1jn1p"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/b243c06b-4d83-4613-a0fd-faa98d4becc9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TgZZLrn7CbxCu8WEXp/26JQSIt2yFscCTYLK2vJ/Ox4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/b243c06b-4d83-4613-a0fd-faa98d4becc9.jpg",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\b243c06b-4d83-4613-a0fd-faa98d4becc9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TgZZLrn7CbxCu8WEXp/26JQSIt2yFscCTYLK2vJ/Ox4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 10:52:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TgZZLrn7CbxCu8WEXp/26JQSIt2yFscCTYLK2vJ/Ox4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/b5808be4-c291-4f0d-957a-8ec60c2115f5.kgnc2hjyhq.png",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\b5808be4-c291-4f0d-957a-8ec60c2115f5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2763592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNd8dnqyUbZ/g4q30Dw0ELD6f4iFY5I20y0Yg1ESj1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 11:12:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kgnc2hjyhq"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/b5808be4-c291-4f0d-957a-8ec60c2115f5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNd8dnqyUbZ/g4q30Dw0ELD6f4iFY5I20y0Yg1ESj1c="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/b5808be4-c291-4f0d-957a-8ec60c2115f5.png",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\b5808be4-c291-4f0d-957a-8ec60c2115f5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2763592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNd8dnqyUbZ/g4q30Dw0ELD6f4iFY5I20y0Yg1ESj1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 11:12:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNd8dnqyUbZ/g4q30Dw0ELD6f4iFY5I20y0Yg1ESj1c="
+        }
+      ]
+    },
+    {
       "Route": "Images/Products/cfda2e1d-eaa6-413d-88f2-4b5bccfbfb19.1ctkryxzf7.jpg",
       "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\cfda2e1d-eaa6-413d-88f2-4b5bccfbfb19.jpg",
       "Selectors": [],
@@ -7201,6 +7737,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-KiSS1w1CqN8V2C2OYFrHR7KouXtccEU5/+mDjOTZcSc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/f095bf38-8081-446a-8995-94d01be5c28d.kgnc2hjyhq.png",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\f095bf38-8081-446a-8995-94d01be5c28d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2763592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNd8dnqyUbZ/g4q30Dw0ELD6f4iFY5I20y0Yg1ESj1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 12:48:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kgnc2hjyhq"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/f095bf38-8081-446a-8995-94d01be5c28d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNd8dnqyUbZ/g4q30Dw0ELD6f4iFY5I20y0Yg1ESj1c="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/f095bf38-8081-446a-8995-94d01be5c28d.png",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\Images\\Products\\f095bf38-8081-446a-8995-94d01be5c28d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2763592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNd8dnqyUbZ/g4q30Dw0ELD6f4iFY5I20y0Yg1ESj1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Jul 2025 12:48:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNd8dnqyUbZ/g4q30Dw0ELD6f4iFY5I20y0Yg1ESj1c="
         }
       ]
     },
