@@ -1059,14 +1059,14 @@
     <StaticWebAssetEndpoint Include="_content/ShopMe.Web/js/Products.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Products.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cYWt\u002BecNavDoEt7cSzMdKzUn5n5Qlte2uqQxxKhl4Mw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1750"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022cYWt\u002BecNavDoEt7cSzMdKzUn5n5Qlte2uqQxxKhl4Mw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 12:13:57 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Nc8ESL0vrCWZITlyddpy1Oe66rMszZ3NNNviWeUdkxo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1693"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Nc8ESL0vrCWZITlyddpy1Oe66rMszZ3NNNviWeUdkxo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 05 Jul 2025 12:49:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ShopMe.Web/js/Products.niznncwpu4.js">
+    <StaticWebAssetEndpoint Include="_content/ShopMe.Web/js/Products.r81erqdnxn.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Products.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"niznncwpu4"},{"Name":"integrity","Value":"sha256-cYWt\u002BecNavDoEt7cSzMdKzUn5n5Qlte2uqQxxKhl4Mw="},{"Name":"label","Value":"_content/ShopMe.Web/js/Products.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1750"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022cYWt\u002BecNavDoEt7cSzMdKzUn5n5Qlte2uqQxxKhl4Mw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 12:13:57 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r81erqdnxn"},{"Name":"integrity","Value":"sha256-Nc8ESL0vrCWZITlyddpy1Oe66rMszZ3NNNviWeUdkxo="},{"Name":"label","Value":"_content/ShopMe.Web/js/Products.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1693"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Nc8ESL0vrCWZITlyddpy1Oe66rMszZ3NNNviWeUdkxo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 05 Jul 2025 12:49:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ShopMe.Web/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

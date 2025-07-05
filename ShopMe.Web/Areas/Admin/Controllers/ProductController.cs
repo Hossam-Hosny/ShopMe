@@ -144,9 +144,8 @@ public class ProductController(IUnitOfWork _unitOfWork
     }
 
 
-  
-    [HttpPost]
-    [Route("Admin/Product/Delete/{id}")]
+
+    
     public IActionResult Delete(int? id)
     {
         var product = _unitOfWork.Product.GetFirstorDefault(c => c.Id == id);

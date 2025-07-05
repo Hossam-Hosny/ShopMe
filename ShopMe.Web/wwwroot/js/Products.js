@@ -15,11 +15,12 @@ function loaddata() {
 
                 "data": "id",
                 "render": function (data) {
-                    return`
-                        <a href="/Admin/Product/Edit/${data}" class="btn btn-success">Edit</a>
-                        <a onClick=DeleteItem("/Admin/Product/Delete/${data}") class="btn btn-danger">Delete</a>
-                    `
+                    return `
+        <a href="/Admin/Product/Edit/${data}" class="btn btn-success">Edit</a>
+        <a href="/Admin/Product/Delete/${data}" class="btn btn-danger">Delete</a>
+    `;
                 }
+
 
             }
         ]
@@ -39,7 +40,7 @@ function DeleteItem(url) {
         if (result.isConfirmed) {
             $.ajax({
                 url: url,
-                type: "POST",
+                type: "DELETE",
                 success: function (data) {
                     if (data.success) {
                         dtable.ajax.reload();

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4FgHPqm5AKoc6hlvaIU09zcehK27JfnyIJKUYWBeY0Y=",
+  "Hash": "rveZ05tGDME7NMUHg0vWsm4K7ZSgR3QlRTiyl+D8smg=",
   "Source": "ShopMe.Web",
   "BasePath": "_content/ShopMe.Web",
   "Mode": "Default",
@@ -1921,8 +1921,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "niznncwpu4",
-      "Integrity": "cYWt+ecNavDoEt7cSzMdKzUn5n5Qlte2uqQxxKhl4Mw=",
+      "Fingerprint": "r81erqdnxn",
+      "Integrity": "Nc8ESL0vrCWZITlyddpy1Oe66rMszZ3NNNviWeUdkxo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Products.js"
@@ -11277,7 +11277,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1750"
+          "Value": "1693"
         },
         {
           "Name": "Content-Type",
@@ -11285,11 +11285,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cYWt+ecNavDoEt7cSzMdKzUn5n5Qlte2uqQxxKhl4Mw=\""
+          "Value": "\"Nc8ESL0vrCWZITlyddpy1Oe66rMszZ3NNNviWeUdkxo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Jul 2025 12:13:57 GMT"
+          "Value": "Sat, 05 Jul 2025 12:49:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11299,12 +11299,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cYWt+ecNavDoEt7cSzMdKzUn5n5Qlte2uqQxxKhl4Mw="
+          "Value": "sha256-Nc8ESL0vrCWZITlyddpy1Oe66rMszZ3NNNviWeUdkxo="
         }
       ]
     },
     {
-      "Route": "js/Products.niznncwpu4.js",
+      "Route": "js/Products.r81erqdnxn.js",
       "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\js\\Products.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11314,7 +11314,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1750"
+          "Value": "1693"
         },
         {
           "Name": "Content-Type",
@@ -11322,11 +11322,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cYWt+ecNavDoEt7cSzMdKzUn5n5Qlte2uqQxxKhl4Mw=\""
+          "Value": "\"Nc8ESL0vrCWZITlyddpy1Oe66rMszZ3NNNviWeUdkxo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Jul 2025 12:13:57 GMT"
+          "Value": "Sat, 05 Jul 2025 12:49:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11336,7 +11336,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "niznncwpu4"
+          "Value": "r81erqdnxn"
         },
         {
           "Name": "label",
@@ -11344,7 +11344,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cYWt+ecNavDoEt7cSzMdKzUn5n5Qlte2uqQxxKhl4Mw="
+          "Value": "sha256-Nc8ESL0vrCWZITlyddpy1Oe66rMszZ3NNNviWeUdkxo="
         }
       ]
     },
