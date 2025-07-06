@@ -331,6 +331,88 @@
       ]
     },
     {
+      "Route": "Images/Products/53fb26b7-e636-4190-9526-649045cde4d1.jpg",
+      "AssetFile": "Images/Products/53fb26b7-e636-4190-9526-649045cde4d1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cMOZhdWLfS6n9ES76h7S5TQRW2IbPhXhnD0WnaEjM8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 12:08:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cMOZhdWLfS6n9ES76h7S5TQRW2IbPhXhnD0WnaEjM8A="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/53fb26b7-e636-4190-9526-649045cde4d1.krntnmh68f.jpg",
+      "AssetFile": "Images/Products/53fb26b7-e636-4190-9526-649045cde4d1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cMOZhdWLfS6n9ES76h7S5TQRW2IbPhXhnD0WnaEjM8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 12:08:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "krntnmh68f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cMOZhdWLfS6n9ES76h7S5TQRW2IbPhXhnD0WnaEjM8A="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/53fb26b7-e636-4190-9526-649045cde4d1.jpg"
+        }
+      ]
+    },
+    {
       "Route": "Images/Products/5f500ab1-c972-4b9e-a542-d90dcb471498.9daym2dnv6.png",
       "AssetFile": "Images/Products/5f500ab1-c972-4b9e-a542-d90dcb471498.png",
       "Selectors": [],

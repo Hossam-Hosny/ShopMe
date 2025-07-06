@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ShopMe.DataAccess.RepositoryServices.UnitOfWork;
+using ShopMe.Entities.Models.ViewModels;
 
 namespace ShopMe.Web.Areas.Customer.Controllers
 {
@@ -15,10 +16,19 @@ namespace ShopMe.Web.Areas.Customer.Controllers
         }
 
 
-        //public IActionResult Details(int id)
-        //{
+        public IActionResult Details(int id)
+        {
+            ShoppingCart shoppingCart = new ShoppingCart()
+            {
+                Product = _unitOfWork.Product.GetFirstorDefault(p => p.Id == id, IncludeWord: "Category"),
+                Count = 1
+                
+            };
+            
 
-        //}
+
+            return View(shoppingCart);       
+        }
 
 
     }
