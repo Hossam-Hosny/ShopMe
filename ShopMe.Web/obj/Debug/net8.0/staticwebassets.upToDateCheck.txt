@@ -27,6 +27,9 @@ wwwroot\css\alt\adminlte.plugins.css.map
 wwwroot\css\alt\adminlte.plugins.min.css
 wwwroot\css\alt\adminlte.plugins.min.css.map
 wwwroot\css\site.css
+wwwroot\customer\assets\favicon.ico
+wwwroot\customer\css\styles.css
+wwwroot\customer\js\scripts.js
 wwwroot\favicon.ico
 wwwroot\Images\Products\1ad57318-33c9-41d1-b755-f9df8d36f6f2.png
 wwwroot\Images\Products\294a41d3-fe82-43da-b058-65e4355f3bc4.jpg
