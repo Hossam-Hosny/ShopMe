@@ -2624,7 +2624,8 @@
       },
       "ShopMe.Entities/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.3.0"
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.3.0",
+          "Microsoft.Extensions.Identity.Stores": "8.0.17"
         },
         "runtime": {
           "ShopMe.Entities.dll": {
