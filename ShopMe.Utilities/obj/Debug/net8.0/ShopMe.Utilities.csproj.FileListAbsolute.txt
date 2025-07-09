@@ -1,0 +1,6 @@
+E:\ecomerce MVC\ShopMe\ShopMe.Utilities\obj\Debug\net8.0\ShopMe.Utilities.csproj.AssemblyReference.cache
+E:\ecomerce MVC\ShopMe\ShopMe.Utilities\obj\Debug\net8.0\ShopMe.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\ecomerce MVC\ShopMe\ShopMe.Utilities\obj\Debug\net8.0\ShopMe.Utilities.AssemblyInfoInputs.cache
+E:\ecomerce MVC\ShopMe\ShopMe.Utilities\obj\Debug\net8.0\ShopMe.Utilities.AssemblyInfo.cs
+E:\ecomerce MVC\ShopMe\ShopMe.Utilities\obj\Debug\net8.0\ShopMe.Utilities.csproj.CoreCompileInputs.cache
+E:\ecomerce MVC\ShopMe\ShopMe.Utilities\obj\Debug\net8.0\ShopMe.Utilities.sourcelink.json

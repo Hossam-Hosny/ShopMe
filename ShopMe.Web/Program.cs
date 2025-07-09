@@ -12,6 +12,8 @@ builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(conn
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages(); 
+
 
 
 
@@ -38,8 +40,10 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
+app.MapRazorPages();
 app.MapControllerRoute(
     name: "default",
     pattern: "{area=Admin}/{controller=Home}/{action=Index}/{id?}");

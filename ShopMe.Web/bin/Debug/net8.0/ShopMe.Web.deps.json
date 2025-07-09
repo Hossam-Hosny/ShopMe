@@ -14,7 +14,8 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.11",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.6",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
-          "ShopMe.DataAccess": "1.0.0"
+          "ShopMe.DataAccess": "1.0.0",
+          "ShopMe.Utilites": "1.0.0"
         },
         "runtime": {
           "ShopMe.Web.dll": {}
@@ -2633,6 +2634,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "ShopMe.Utilites/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "8.0.11"
+        },
+        "runtime": {
+          "ShopMe.Utilites.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -4139,6 +4151,11 @@
       "sha512": ""
     },
     "ShopMe.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopMe.Utilites/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMe.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72008e86f49dbe748c73a5b050faa3538dfd0582")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecd7d9d4efa9f7d5eb1ec12e955af15b1d8afd33")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMe.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMe.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

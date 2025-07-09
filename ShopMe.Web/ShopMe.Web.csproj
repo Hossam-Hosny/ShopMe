@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ShopMe.Data\ShopMe.DataAccess.csproj" />
+    <ProjectReference Include="..\ShopMe.Utilites\ShopMe.Utilites.csproj" />
   </ItemGroup>
 
   <ItemGroup>
