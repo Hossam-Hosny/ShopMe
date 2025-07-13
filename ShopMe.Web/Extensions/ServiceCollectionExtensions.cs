@@ -11,6 +11,7 @@ public static class ServiceCollectionExtensions
     {
         builder.Services.AddHttpContextAccessor();
         builder.Services.AddIdentity<IdentityUser,IdentityRole>()
+            .AddDefaultUI()
             .AddDefaultTokenProviders()
             .AddEntityFrameworkStores<AppDbContext>();
 

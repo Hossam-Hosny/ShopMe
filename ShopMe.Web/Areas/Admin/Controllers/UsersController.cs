@@ -1,9 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ShopMe.DataAccess.Context;
+using ShopMe.Utilites.Constants;
 using System.Security.Claims;
 
 namespace ShopMe.Web.Areas.Admin.Controllers;
 [Area("Admin")]
+[Authorize(Roles ="Admin")]
 public class UsersController(AppDbContext _db) : Controller
 {
     public IActionResult Index()
