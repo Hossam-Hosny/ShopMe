@@ -1,4 +1,5 @@
 ﻿@page
+@using ShopMe.Utilites.Constants
 @model RegisterModel
 @{
     ViewData["Title"] = "Register";
@@ -56,7 +57,25 @@
                 <label asp-for="Input.ConfirmPassword">Confirm Password</label>
                 <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
             </div>
-            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+           
+            @if(User.IsInRole(UserRole.Admin))
+            {
+
+                        <input type="radio" value="@UserRole.Admin" name="RoleRadio" /> @UserRole.Admin
+                        <input type="radio" value="@UserRole.Editor" name="RoleRadio" /> @UserRole.Editor
+                        <input type="radio" value="@UserRole.Customer" name="RoleRadio" /> @UserRole.Customer
+
+            }
+
+            @if(User.IsInRole(UserRole.Admin)){
+                        <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Create New User</button>
+
+            }else{
+                        <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+
+            }
+            
+            
         </form>
     </div>
     <div class="col-md-6 col-md-offset-2">
