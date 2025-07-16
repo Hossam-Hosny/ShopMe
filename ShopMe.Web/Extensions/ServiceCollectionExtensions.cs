@@ -10,7 +10,10 @@ public static class ServiceCollectionExtensions
     public static void AddWeb(this WebApplicationBuilder builder )
     {
         builder.Services.AddHttpContextAccessor();
-        builder.Services.AddIdentity<IdentityUser,IdentityRole>()
+        builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+        {
+            options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromDays(1);
+        })
             .AddDefaultUI()
             .AddDefaultTokenProviders()
             .AddEntityFrameworkStores<AppDbContext>();
