@@ -13,6 +13,7 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : IdentityDbCo
     public DbSet<Product> Products { get; set; }
 
     public DbSet<AppUser> appUsers { get; set; }
+    public DbSet<ShoppingCart> ShoppingCarts { get; set; }
 
 
 }

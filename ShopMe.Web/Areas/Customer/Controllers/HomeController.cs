@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ShopMe.DataAccess.RepositoryServices.UnitOfWork;
-using ShopMe.Entities.Models.ViewModels;
+using ShopMe.Entities.Models;
 
 namespace ShopMe.Web.Areas.Customer.Controllers
 {
