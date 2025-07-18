@@ -8,6 +8,8 @@ public class UnitOfWork : IUnitOfWork
 
     public IProductRepository Product { get; private set; }
 
+    public IShopingCartRepository ShopingCart {  get; private set; }
+
     private readonly AppDbContext _db;
 
     public UnitOfWork( AppDbContext db)
@@ -16,6 +18,8 @@ public class UnitOfWork : IUnitOfWork
         _db = db?? throw new ArgumentNullException(nameof(db));
         Category = new CategoryRepository(_db);
         Product = new ProductRepository(_db);
+        ShopingCart = new ShopingCartRepository(_db);
+
     }
 
     public int Complete()
