@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ShopMe.DataAccess.RepositoryServices.UnitOfWork;
 using ShopMe.Entities.Models;
+using System.Security.Claims;
 
 namespace ShopMe.Web.Areas.Customer.Controllers
 {
@@ -16,19 +18,40 @@ namespace ShopMe.Web.Areas.Customer.Controllers
         }
 
 
-        public IActionResult Details(int id)
+        public IActionResult Details(int ProductId)
         {
+          
             ShoppingCart shoppingCart = new ShoppingCart()
             {
-                Product = _unitOfWork.Product.GetFirstorDefault(p => p.Id == id, IncludeWord: "Category"),
+                ProductId = ProductId,
+                Product = _unitOfWork.Product.GetFirstorDefault(p => p.Id == ProductId, IncludeWord: "Category"),
                 Count = 1
                 
             };
+
             
-
-
             return View(shoppingCart);       
         }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        [Authorize]
+        public IActionResult Details(ShoppingCart shoppingCart)
+        {
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
+
+            shoppingCart.AppUserId = claim.Value;
+            _unitOfWork.ShopingCart.Add(shoppingCart);
+            _unitOfWork.Complete();
+
+            return RedirectToAction("Index");
+
+
+        }
+
+
+
 
 
     }
