@@ -42,7 +42,17 @@ namespace ShopMe.Web.Areas.Customer.Controllers
             var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
 
             shoppingCart.AppUserId = claim.Value;
-            _unitOfWork.ShopingCart.Add(shoppingCart);
+
+            var cart = _unitOfWork.ShopingCart.GetFirstorDefault(u => u.AppUserId == claim.Value
+            && u.ProductId == shoppingCart.ProductId);
+
+            if (cart == null)
+                _unitOfWork.ShopingCart.Add(shoppingCart);
+            else
+            {
+                _unitOfWork.ShopingCart.IncreaseCount(cart, cart.Count);
+            }
+           
             _unitOfWork.Complete();
 
             return RedirectToAction("Index");
