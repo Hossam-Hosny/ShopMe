@@ -3699,6 +3699,170 @@
       ]
     },
     {
+      "Route": "ShoppingCart/index.58ck32bvlf.html",
+      "AssetFile": "ShoppingCart/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5RUBJVNijQIalvwIKTCHHf7PXFCeKnQnskDvVqgrZI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Jul 2025 10:24:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58ck32bvlf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5RUBJVNijQIalvwIKTCHHf7PXFCeKnQnskDvVqgrZI0="
+        },
+        {
+          "Name": "label",
+          "Value": "ShoppingCart/index.html"
+        }
+      ]
+    },
+    {
+      "Route": "ShoppingCart/index.html",
+      "AssetFile": "ShoppingCart/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5RUBJVNijQIalvwIKTCHHf7PXFCeKnQnskDvVqgrZI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Jul 2025 10:24:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5RUBJVNijQIalvwIKTCHHf7PXFCeKnQnskDvVqgrZI0="
+        }
+      ]
+    },
+    {
+      "Route": "ShoppingCart/style.css",
+      "AssetFile": "ShoppingCart/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4K5E0FhDXLFkjHSYNf0NV7XonW4xbY3V0R4QKpMHiGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Jul 2025 10:24:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4K5E0FhDXLFkjHSYNf0NV7XonW4xbY3V0R4QKpMHiGE="
+        }
+      ]
+    },
+    {
+      "Route": "ShoppingCart/style.sh6gev0ygh.css",
+      "AssetFile": "ShoppingCart/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4K5E0FhDXLFkjHSYNf0NV7XonW4xbY3V0R4QKpMHiGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Jul 2025 10:24:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sh6gev0ygh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4K5E0FhDXLFkjHSYNf0NV7XonW4xbY3V0R4QKpMHiGE="
+        },
+        {
+          "Name": "label",
+          "Value": "ShoppingCart/style.css"
+        }
+      ]
+    },
+    {
       "Route": "css/adminlte.css",
       "AssetFile": "css/adminlte.css",
       "Selectors": [],

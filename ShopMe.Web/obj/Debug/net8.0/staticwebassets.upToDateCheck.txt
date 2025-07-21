@@ -192,3 +192,5 @@ wwwroot\plugins\jquery\jquery.min.map
 wwwroot\plugins\jquery\jquery.slim.js
 wwwroot\plugins\jquery\jquery.slim.min.js
 wwwroot\plugins\jquery\jquery.slim.min.map
+wwwroot\ShoppingCart\index.html
+wwwroot\ShoppingCart\style.css

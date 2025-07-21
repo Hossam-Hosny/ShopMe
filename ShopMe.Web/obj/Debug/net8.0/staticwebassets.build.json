@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qzdNMLo2CU0cD/CE3/GslZxBcneA5rolFfpwx9W39Xs=",
+  "Hash": "nFGElnefegM/l33j1k5G/iW29mEcGcPCnOD0Y3cC66Q=",
   "Source": "ShopMe.Web",
   "BasePath": "_content/ShopMe.Web",
   "Mode": "Default",
@@ -5391,6 +5391,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\ShoppingCart\\index.html",
+      "SourceId": "ShopMe.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\",
+      "BasePath": "_content/ShopMe.Web",
+      "RelativePath": "ShoppingCart/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "58ck32bvlf",
+      "Integrity": "5RUBJVNijQIalvwIKTCHHf7PXFCeKnQnskDvVqgrZI0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ShoppingCart\\index.html"
+    },
+    {
+      "Identity": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\ShoppingCart\\style.css",
+      "SourceId": "ShopMe.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\",
+      "BasePath": "_content/ShopMe.Web",
+      "RelativePath": "ShoppingCart/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sh6gev0ygh",
+      "Integrity": "4K5E0FhDXLFkjHSYNf0NV7XonW4xbY3V0R4QKpMHiGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ShoppingCart\\style.css"
     }
   ],
   "Endpoints": [
@@ -23683,6 +23725,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-+tLDPsGvkBnyX4jov25MQzi3kfZnrFvTa+daKHRDC7U="
+        }
+      ]
+    },
+    {
+      "Route": "ShoppingCart/index.58ck32bvlf.html",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\ShoppingCart\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5RUBJVNijQIalvwIKTCHHf7PXFCeKnQnskDvVqgrZI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Jul 2025 10:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58ck32bvlf"
+        },
+        {
+          "Name": "label",
+          "Value": "ShoppingCart/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5RUBJVNijQIalvwIKTCHHf7PXFCeKnQnskDvVqgrZI0="
+        }
+      ]
+    },
+    {
+      "Route": "ShoppingCart/index.html",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\ShoppingCart\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5RUBJVNijQIalvwIKTCHHf7PXFCeKnQnskDvVqgrZI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Jul 2025 10:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5RUBJVNijQIalvwIKTCHHf7PXFCeKnQnskDvVqgrZI0="
+        }
+      ]
+    },
+    {
+      "Route": "ShoppingCart/style.css",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\ShoppingCart\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4K5E0FhDXLFkjHSYNf0NV7XonW4xbY3V0R4QKpMHiGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Jul 2025 10:24:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4K5E0FhDXLFkjHSYNf0NV7XonW4xbY3V0R4QKpMHiGE="
+        }
+      ]
+    },
+    {
+      "Route": "ShoppingCart/style.sh6gev0ygh.css",
+      "AssetFile": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\ShoppingCart\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4K5E0FhDXLFkjHSYNf0NV7XonW4xbY3V0R4QKpMHiGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Jul 2025 10:24:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sh6gev0ygh"
+        },
+        {
+          "Name": "label",
+          "Value": "ShoppingCart/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4K5E0FhDXLFkjHSYNf0NV7XonW4xbY3V0R4QKpMHiGE="
         }
       ]
     }

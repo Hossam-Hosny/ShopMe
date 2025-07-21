@@ -73,6 +73,14 @@
       "PackagePath": "staticwebassets\\Images\\Products\\f095bf38-8081-446a-8995-94d01be5c28d.png"
     },
     {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\ShoppingCart\\index.html",
+      "PackagePath": "staticwebassets\\ShoppingCart\\index.html"
+    },
+    {
+      "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\ShoppingCart\\style.css",
+      "PackagePath": "staticwebassets\\ShoppingCart\\style.css"
+    },
+    {
       "Id": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\wwwroot\\css\\adminlte.css",
       "PackagePath": "staticwebassets\\css\\adminlte.css"
     },
