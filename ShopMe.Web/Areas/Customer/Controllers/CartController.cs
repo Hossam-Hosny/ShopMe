@@ -23,6 +23,11 @@ namespace ShopMe.Web.Areas.Customer.Controllers
                 CartsList = _unitOfWork.ShopingCart.GetAll(u => u.AppUserId == claim.Value,IncludeWord:"Product")
             };
 
+            foreach(var item in ShoppingCartVM.CartsList)
+            {
+                ShoppingCartVM.TotalCarts += (item.Count * item.Product.Price);
+            }
+
             return View(ShoppingCartVM);
 
         }

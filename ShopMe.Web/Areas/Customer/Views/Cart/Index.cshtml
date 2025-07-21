@@ -42,7 +42,13 @@
 														</div>
 														<div class="col-md-4 quantity">
 															<label for="quantity">Quantity:</label>
-															<input id="quantity" type="number" value="1" class="form-control quantity-input">
+															<div  class="btn-group" role="group" >
+																<a class="btn btn-primary" asp-action="Plus" asp-route-cartid="@product.Id">+</a>
+																<span style="margin:5px">@product.Count</span>
+																<a class="btn btn-primary" asp-action="Minus" asp-route-cartid="@product.Id">-</a>
+
+
+															</div>
 														</div>
 														<div class="col-md-3 price">
 															<span>@product.Product.Price</span>
@@ -59,10 +65,10 @@
 						<div class="col-md-12 col-lg-4">
 							<div class="summary">
 								<h3>Summary</h3>
-								<div class="summary-item"><span class="text">Subtotal</span><span class="price">$360</span></div>
+@* 								<div class="summary-item"><span class="text">Subtotal</span><span class="price">$360</span></div>
 								<div class="summary-item"><span class="text">Discount</span><span class="price">$0</span></div>
-								<div class="summary-item"><span class="text">Shipping</span><span class="price">$0</span></div>
-								<div class="summary-item"><span class="text">Total</span><span class="price">$360</span></div>
+								<div class="summary-item"><span class="text">Shipping</span><span class="price">$0</span></div> *@
+								<div class="summary-item"><span class="text">Total</span><span class="price">@Model.TotalCarts.ToString()</span></div>
 								<button type="button" class="btn btn-primary btn-lg btn-block">Checkout</button>
 							</div>
 						</div>

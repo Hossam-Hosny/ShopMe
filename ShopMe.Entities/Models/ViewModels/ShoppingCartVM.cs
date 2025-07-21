@@ -3,4 +3,5 @@
 public class ShoppingCartVM
 {
     public IEnumerable<ShoppingCart> CartsList { get; set; }
+    public decimal TotalCarts { get; set; }
 }
