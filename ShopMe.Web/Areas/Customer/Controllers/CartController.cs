@@ -62,5 +62,16 @@ namespace ShopMe.Web.Areas.Customer.Controllers
             return RedirectToAction("Index");
 
         }
+
+
+        public IActionResult Remove(int cartid)
+        {
+            var shoppingcart = _unitOfWork.ShopingCart.GetFirstorDefault(x => x.Id == cartid);
+            _unitOfWork.ShopingCart.Remove(shoppingcart);
+            _unitOfWork.Complete();
+
+            return RedirectToAction("Index");
+
+        }
     }
 }
