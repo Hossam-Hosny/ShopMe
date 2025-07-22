@@ -31,5 +31,15 @@ namespace ShopMe.Web.Areas.Customer.Controllers
             return View(ShoppingCartVM);
 
         }
+
+        public IActionResult Plus(int cartid)
+        {
+            var shoppingcart = _unitOfWork.ShopingCart.GetFirstorDefault(x => x.Id == cartid);
+            _unitOfWork.ShopingCart.IncreaseCount(shoppingcart, 1);
+            _unitOfWork.Complete();
+
+            return RedirectToAction("Index");
+
+        }
     }
 }
