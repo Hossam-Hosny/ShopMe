@@ -309,7 +309,7 @@
               "RelativeDocumentMoniker": "ShopMe.Web\\Areas\\Customer\\Controllers\\CartController.cs",
               "ToolTip": "E:\\ecomerce MVC\\ShopMe\\ShopMe.Web\\Areas\\Customer\\Controllers\\CartController.cs*",
               "RelativeToolTip": "ShopMe.Web\\Areas\\Customer\\Controllers\\CartController.cs*",
-              "ViewState": "AgIAACEAAAAgMzMzMzMrwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T09:58:48.537Z",
               "EditorCaption": ""
@@ -324,8 +324,7 @@
               "RelativeToolTip": "ShopMe.Web\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
               "ViewState": "AgIAADsAAABgZmZmZmYkwEAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-20T10:01:23.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T10:01:23.297Z"
             },
             {
               "$type": "Document",
@@ -337,8 +336,7 @@
               "RelativeToolTip": "ShopMe.Entities\\Repositories\\IShopingCartRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T10:47:00.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T10:47:00.774Z"
             },
             {
               "$type": "Document",
@@ -350,8 +348,7 @@
               "RelativeToolTip": "ShopMe.Data\\RepositoryServices\\ShopingCartRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAnwBEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T10:48:07.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T10:48:07.519Z"
             },
             {
               "$type": "Document",
@@ -901,8 +898,7 @@
               "RelativeToolTip": "ShopMe.Entities\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:39:55.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T12:39:55.743Z"
             },
             {
               "$type": "Document",
